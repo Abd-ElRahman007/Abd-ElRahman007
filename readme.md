@@ -26,10 +26,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abd-elrahman007&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&locale=en&layout=compact" alt="abd-elrahman007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd-elrahman007&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="abd-elrahman007" /></p>
-<br>
-
 ### 🔥 My Stats :</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abd-elrahman007&theme=tokyonight&hide_border=false" alt="abd-elrahman007" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abd-elrahman007&theme=tokyonight&hide_border=true" alt="abd-elrahman007" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd-elrahman007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="abd-elrahman007" /></p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abd-elrahman007&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&locale=en&layout=compact" alt="abd-elrahman007" /></p>
