@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abd-elrahman007&label=Profile%20views&color=0e75b6&style=flat" alt="abd-elrahman007" /> </p>
 
-- 🌱 I’m currently learning **React with next and redux**
+- 🌱 I’m currently learning **React with next**
 
-- 💬 Ask me about **Html/Css, JavaScript**
+- 💬 Ask me about **Html/Css, JavaScript, React/NextJS**
 
 - 📫 How to reach me **abdelrhman123work@gmail.com**
 
